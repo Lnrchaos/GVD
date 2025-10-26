@@ -1,21 +1,137 @@
-MIT License
+GVD PROPRIETARY LICENSE
 
-Copyright (c) 2025 Lnrchaos
+Copyright (c) 2024 GVD - Hybrid Generative Architecture. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+PREAMBLE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This license is designed to protect the open-source community by ensuring that
+major corporations cannot take this framework and monetize it without giving back
+to the community that created it. The goal is to keep AI research accessible and
+collaborative while preventing exploitation by large commercial entities.
+
+If you are part of the open-source community and wish to monetize this framework,
+you are encouraged to contact the author to discuss collaboration and licensing
+opportunities that benefit both parties and the broader community.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. DEFINITIONS
+
+"Software" refers to the GVD Hybrid Generative Architecture codebase, including
+all source code, documentation, and associated files in this repository.
+
+"You" (or "Your") refers to an individual or Legal Entity exercising permissions
+granted by this License.
+
+"Commercial Use" means any use of the Software that is primarily intended for or
+directed toward commercial advantage or monetary compensation.
+
+"Research Use" means use of the Software for academic research, education, 
+personal learning, AI research advancement, or non-monetized projects without 
+commercial intent.
+
+2. GRANT OF RIGHTS
+
+Subject to the terms and conditions of this License, the copyright holder hereby
+grants You a worldwide, royalty-free, non-exclusive license to:
+
+a) Use, copy, modify, and distribute the Software for Research Use only
+b) Create derivative works based on the Software for Research Use only
+c) Publicly display and perform the Software for Research Use only
+d) Use the Software to further AI research and non-monetized projects
+e) Collaborate with the open-source community on improvements and extensions
+
+3. RESTRICTIONS
+
+You may NOT:
+
+a) Use the Software for Commercial Use without explicit written permission
+b) Sell, license, or monetize the Software or any derivative works
+c) Use the Software in any commercial product or service
+d) Remove or alter any copyright notices or license terms
+e) Grant sublicenses for Commercial Use
+
+4. RESEARCH USE REQUIREMENTS
+
+If You use the Software for Research Use, You must:
+
+a) Include this license notice in all copies or substantial portions
+b) Cite the original GVD repository in any academic publications
+c) Clearly indicate any modifications made to the original Software
+d) Share derivative works under the same license terms
+
+5. COMMERCIAL USE LICENSING
+
+Commercial Use requires a separate commercial license. This restriction is 
+specifically designed to prevent major corporations from exploiting open-source
+work without contributing back to the community.
+
+Open-source community members who wish to monetize this framework are encouraged
+to contact the author for collaborative licensing opportunities that benefit both
+parties and the broader community.
+
+To obtain commercial licensing rights, contact:
+- Email: lylerichards17@gmail.com
+- Discord: TweaknGeek
+
+Commercial licenses may include:
+a) Different terms and conditions
+b) Royalty or licensing fee requirements  
+c) Support and warranty provisions
+d) Indemnification terms
+e) Community contribution requirements
+
+6. ATTRIBUTION
+
+You must retain all copyright notices and provide appropriate attribution to
+the GVD project in any use of the Software, including:
+
+a) Copyright notice: "Based on GVD Hybrid Generative Architecture"
+b) Link to the original repository
+c) Notice of any modifications made
+
+7. MODEL WEIGHTS AND DATASETS
+
+This license covers the Software code only. Any trained model weights, datasets,
+or other assets are subject to separate licensing terms and the policies of
+their respective sources.
+
+8. DISCLAIMER OF WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. THE COPYRIGHT HOLDER
+MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE SUITABILITY OF THE SOFTWARE
+FOR ANY PURPOSE.
+
+9. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+10. TERMINATION
+
+This License automatically terminates if You fail to comply with any of its
+terms and conditions. Upon termination, You must cease all use of the Software
+and destroy all copies in Your possession.
+
+11. THIRD-PARTY COMPONENTS
+
+The Software may incorporate third-party components (StyleGAN3, Stable Diffusion
+architectures, etc.) that are subject to their own license terms. You are
+responsible for compliance with all applicable third-party licenses.
+
+12. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws
+of the jurisdiction where the copyright holder resides, without regard to
+conflict of law principles.
+
+13. COMMUNITY PROTECTION CLAUSE
+
+This license existsnsing inquiries, please contact: [contact information]
+
+By using this Software, You acknowledge that You have read this License,
+understand it, and agree to be bound by its terms and conditions.
