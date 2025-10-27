@@ -317,14 +317,6 @@ dev_config = {
 4. Ensure all tests pass
 5. Submit a pull request
 
-## 📄 GVD Proprietary License
-- allowed to be used for research and for non monetization
-- I as the sole developer (Lyle Richards II) keep and hold all Monetization rights
-- This is to ensure that big Corperations doesn't limit Open Source developers from the useage of the framework as well as allows everyone to use for research and non monetized projects
-- If one wishes to use this project and/or the framework for monetization you can contact me via email or discord
-- email: lylerichards17@gmail.com
-- Discord username: TweaknGeek
-
 
 ## 🙏 Acknowledgments
 
